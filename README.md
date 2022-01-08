@@ -8,13 +8,9 @@ Use the reflected light intensity sensor to be able to capture the light intensi
 | Name | Image                |
 | :-------- | :------------------------- |
 | `light intensity sensor` | ![App Screenshot](/images/Image1.jpg) |
-| :-------- | :------------------------- |
 | `NodeMCU ESP8266` | ![App Screenshot](/images/Image2.jpg) |
-| :-------- | :------------------------- |
 | `Female-Male Cables 20cm` | ![App Screenshot](/images/Image3.jpg) |
-| :-------- | :------------------------- |
 | `LED 5mm` | ![App Screenshot](/images/Image4.jpg) |
-| :-------- | :------------------------- |
 | `Micro-USB (A-MicroB)` | ![App Screenshot](/images/Image5.jpg) |
 
 ## Demo
