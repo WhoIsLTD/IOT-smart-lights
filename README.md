@@ -2,7 +2,7 @@
 
 Use the reflected light intensity sensor to be able to capture the light intensity of the surrounding environment. From there, it is possible to automatically turn on/off the lights when the light intensity is strong/weak and can control the lights on/off remotely via the web server.
 
-<p align="center"><img src="https://raw.githubusercontent.com/WhoIsLTD/IOT-smart-lights/master/images/Image6.jpg" width="280" height="280"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/WhoIsLTD/IOT-smart-lights/master/images/Image6.png"></p>
 
 ## Demo
 
